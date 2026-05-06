@@ -138,9 +138,3 @@ Turn 2: "Can I return it?" → WORKS! Full conversation in state.messages
 
 ---
 
-## Teaching Tips
-
-- **Start with Lab 1** and ask students: *"What if the customer asks about products? How would you add that?"* — they'll see the manual approach doesn't scale.
-- **In Lab 2**, ask: *"What happens if you ask a follow-up question?"* — they'll discover the lack of memory.
-- **In Lab 3**, have students trace the graph: classify → route → tools → respond. Draw it on a whiteboard.
-- **Extension challenge**: Ask students to add a new node (e.g., "billing") to the Lab 3 graph.
